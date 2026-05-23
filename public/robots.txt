@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /servicos
+Allow: /produtos
+Allow: /projetos
+Allow: /contato
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /login
+Disallow: /checkout
+Disallow: /account
+
+Sitemap: https://example.com/sitemap.xml
